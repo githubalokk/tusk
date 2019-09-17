@@ -3,4 +3,6 @@
 
 This is my first git text file
 
+checking if file is being added or not
+
 thank you
